@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Md. Fahim Muntasir
 A passionate web developer building scalable, user-friendly application and solving real-world problems with maintainable code.
-- 🔭 I’m currently working on #Web Development Projects
-- 🌱 I’m currently learning #JavaScript
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m currently learning **JavaScript**
 <!--
 **fahim-cp/fahim-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
