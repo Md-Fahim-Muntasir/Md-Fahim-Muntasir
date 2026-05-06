@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 Hi, I’m **Md. Fahim Muntasir**, an aspiring full-stack web developer from Bangladesh. I’m currently learning and working with technologies like JavaScript, React.js, Node.js, and MongoDB to build responsive and user-friendly web applications. I may be at the beginning of my journey, but I’m highly motivated, detail-oriented, and committed to improving every day. I enjoy turning ideas into functional websites and always aim to deliver clean and efficient solutions.
+
 **🚀 Highlights:**
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m currently learning **JavaScript**
